@@ -1,0 +1,34 @@
+/* Styling body */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f8ff;
+    text-align: center;
+  }
+  
+  /* Styling header */
+  h1 {
+    color: #4CAF50;
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  /* Styling paragraph */
+  p {
+    color: #333;
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  /* Hover effect for body */
+  body:hover {
+    background-color: #e8f5e9;
+  }
