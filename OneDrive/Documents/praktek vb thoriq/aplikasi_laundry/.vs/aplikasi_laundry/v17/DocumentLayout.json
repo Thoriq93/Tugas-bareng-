@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|c:\\users\\toriq\\onedrive\\documents\\praktek vb thoriq\\aplikasi_laundry\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|c:\\users\\toriq\\onedrive\\documents\\praktek vb thoriq\\aplikasi_laundry\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|c:\\users\\toriq\\onedrive\\documents\\praktek vb thoriq\\aplikasi_laundry\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|c:\\users\\toriq\\onedrive\\documents\\praktek vb thoriq\\aplikasi_laundry\\koneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9C8DC610-C3BF-43DE-A4C5-9A4998E00D86}|aplikasi_laundry.vbproj|solutionrelative:koneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA7wGYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-30T00:32:57.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAALIAAAAAAAAAAAAYwOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T03:23:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "koneksi.vb",
+              "DocumentMoniker": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\koneksi.vb",
+              "RelativeDocumentMoniker": "koneksi.vb",
+              "ToolTip": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\koneksi.vb",
+              "RelativeToolTip": "koneksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T03:00:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Toriq\\OneDrive\\Documents\\praktek vb thoriq\\aplikasi_laundry\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T03:38:52.255Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

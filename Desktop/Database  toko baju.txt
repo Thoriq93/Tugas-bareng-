@@ -1,0 +1,13 @@
+Database : toko baju
+
+tabel_barang
+id_barang primary key
+nama_barang
+
+tabel_pembeli
+id_pembeli primary key
+nama_pembeli
+id_barang
+
+
+tabel_pembeli (many)----------------(many) tabel_barang
